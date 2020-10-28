@@ -1,0 +1,12 @@
+
+
+table				columns
+
+
+
+ message			id;message_string;
+notification_type		id, type, type_id
+notification			id, message_id, message
+user_messages 			id, user_id, message_id
+user_notifications		id, user_id, notification_id
+user_notification_status	id,user_id, notification_type_id,status

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "notification", "notification\notification.njsproj", "{633465AB-4917-4FE1-BE71-6DCDF23E3F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633465AB-4917-4FE1-BE71-6DCDF23E3F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633465AB-4917-4FE1-BE71-6DCDF23E3F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633465AB-4917-4FE1-BE71-6DCDF23E3F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633465AB-4917-4FE1-BE71-6DCDF23E3F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CCBBF5E-60CC-40E8-B316-E3B243A3B4E0}
+	EndGlobalSection
+EndGlobal
